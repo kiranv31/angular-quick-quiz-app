@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
+## Local environment setup
+
+https://angular.io/guide/setup-local
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -33,3 +37,12 @@ https://material.angular.io/components/categories
 ## Angular App Development 
 
 https://angular.io/guide/router-tutorial
+
+## Angular Routing
+
+https://angular.io/guide/router-tutorial
+https://angular.io/tutorial
+
+## Material Design
+
+https://framer.com/
